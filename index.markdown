@@ -7,8 +7,13 @@ layout: page
 ---
 
 # Teaching Assistant Professor
-## Department of Computer Science 
-## UNC Chapel Hill
+## Department of Computer Science, UNC Chapel Hill
 ### Office: 136 Fred Brooks Building
 ### Email: abyrnes1@cs.unc.edu
 
+B.S., 2016, Mathematics and Computer Science, Tulane University<br/>
+M.S., 2020, Computer Science, UNC Chapel Hill   <br/> 
+Ph.D., 2022, Computer Science, UNC Chapel Hill   <br/>  <br/> 
+
+<h3>"Good mathematics is not about how many answers you know… It's how you behave when you don't know."</h3>
+    <i>-Author Unknown</i>
