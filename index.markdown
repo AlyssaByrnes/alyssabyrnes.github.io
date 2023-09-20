@@ -6,4 +6,9 @@ layout: page
 
 ---
 
-Hello World! 
+# Teaching Assistant Professor
+## Department of Computer Science 
+## UNC Chapel Hill
+### Office: 136 Fred Brooks Building
+### Email: abyrnes1@cs.unc.edu
+
