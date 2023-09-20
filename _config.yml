@@ -23,7 +23,7 @@ title: Alyssa Lytle (Byrnes)
 description: >- # this means to ignore newlines until "baseurl:"
   My professional website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://alyssalytle.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alyssalytle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /static/assets/img/profpic.jpg
 
 # Build settings
