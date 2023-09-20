@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Welcome to My Site"
+title:  "Other Page"
 ---
 
 # Welcome!
