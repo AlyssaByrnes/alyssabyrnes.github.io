@@ -9,7 +9,7 @@ title: Teaching Assistant Professor
 
 ## Department of Computer Science, UNC Chapel Hill
 ### Office: 136 Fred Brooks Building
-### Email: abyrnes1@cs.unc.edu
+### Email: abyrnes1 -at- cs.unc.edu
 
 B.S., 2016, Mathematics and Computer Science, Tulane University<br/>
 M.S., 2020, Computer Science, UNC Chapel Hill   <br/> 
