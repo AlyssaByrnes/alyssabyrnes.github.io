@@ -30,8 +30,8 @@ github_username:  jekyll
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
+- jekyll-remote-theme
+- jekyll-feed
 
 # Theme Variabes
 show_downloads: false
