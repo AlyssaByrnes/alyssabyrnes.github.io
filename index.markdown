@@ -7,7 +7,7 @@ title: Teaching Assistant Professor
 ---
 
 
-## Department of Computer Science, UNC Chapel Hill
+## Department of Computer Science <br/> UNC Chapel Hill
 ### Office: 136 Fred Brooks Building
 ### Email: abyrnes1 -at- cs.unc.edu
 
