@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   My professional website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alyssalytle.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-logo: /assets/img/profpic.png
+logo: /static/assets/img/profpic.jpg
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
