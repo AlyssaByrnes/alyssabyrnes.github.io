@@ -25,10 +25,8 @@ we're going to set up a new Jekyll project. Jekyll is a static site generator. I
 6. In Gemfile, Add "#" to the beginning of the line that starts with `gem "jekyll"` to comment out this line.
 
 7. Add the github-pages gem by editing the line starting with `# gem "github-pages"`. Change this line to:
-
-`gem "github-pages", "~> 228", group: :jekyll_plugins`
-
-Then save and close the Gemfile!
+`gem "github-pages", "~> 228", group: :jekyll_plugins`<br/>
+then save and close the Gemfile!
 
 8. In your terminal, run `bundle install`
 
