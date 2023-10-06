@@ -10,6 +10,9 @@ If you're interested in learning more Computer Science outside the major, you sh
 
 If you'd like some fun coding projects to work on to strengthen your skills, I recommend the following!
 
+### Create Your Own Personal Website
+I made a [tutorial](/resources/personal-site.html) on how to create a personal website like this one!
+
 ### Artificial Intelligence
 I found [Berkeley's Pac Man project](http://ai.berkeley.edu/project_overview.html) to be a fun introduction to AI!
 
