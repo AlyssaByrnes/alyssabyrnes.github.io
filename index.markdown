@@ -19,5 +19,5 @@ Ph.D., 2022, Computer Science, UNC Chapel Hill   <br/>  <br/>
 *-Author Unknown*
 
 <p style="color:red">
-If you are hoping to take Comp110 with me this Spring, please fill out [this form](https://airtable.com/appFTDTi1UYszJIG0/shrQgTiRu8IGtjoQy)!
+If you are hoping to take Comp110 with me this Spring, please fill out <a href="https://airtable.com/appFTDTi1UYszJIG0/shrQgTiRu8IGtjoQy">this form</a>!
 </p>
