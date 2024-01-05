@@ -11,3 +11,4 @@ Here are some teaching materials I've made to help students. I consider them to 
 
 * Pseudocode: [Video](https://youtu.be/Pbi7gRJn06w), [Slides](/comp283/lessons/Pseudocode.html)
 * Propositional Logic: [Video](https://youtu.be/Jf7lZ_LQ5FM), [Slides](/comp283/lessons/PropLogic.html)
+* Sets, Tuples, and Counting: [Video](https://youtu.be/89Z-Yzxisag), [Slides](/comp283/lessons/SetsAndTuples.html), [Assignment](https://www.gradescope.com/)
