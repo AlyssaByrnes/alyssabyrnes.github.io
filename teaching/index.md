@@ -9,6 +9,5 @@ Here are some teaching materials I've made to help students. I consider them to 
 
 ## Discrete Structures
 
-* Pseudocode: [Video](https://youtu.be/Pbi7gRJn06w), [Slides](https://alyssalytle.github.io/comp283/lessons/Pseudocode.html)
-
-
+* Pseudocode: [Video](https://youtu.be/Pbi7gRJn06w), [Slides](/comp283/lessons/Pseudocode.html)
+* Propositional Logic: [Video](https://youtu.be/Jf7lZ_LQ5FM), [Slides](/comp283/lessons/PropLogic.html)
