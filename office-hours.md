@@ -20,9 +20,4 @@ I will be using Course.Care to handle queuing for CS Advising office hours.
     - click "Join a Course"
     - add the course code: F76BE6
 
-Once you are in, click an event (the office hours you wish to attend) and follow the instructions. You will be asked to provide a link to a zoom meeting. When it is your turn in the queue I will enter your zoom meeting.
-
-## Creating a Ticket
-
-- Go to "Events"
-- You should see an event titled "Office Hours". Click on that and create a ticket! I'll be with you ASAP! :)
+You should see an event titled "Office Hours" with a Zoom url. Click on that and create a ticket! I'll be with you ASAP! :)
