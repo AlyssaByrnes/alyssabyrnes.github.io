@@ -18,6 +18,6 @@ I will be using Course.Care to handle queuing for CS Advising office hours.
 - If you already have a Course.Care account:
     - go to [Course.Care](https://course.care)
     - click "Join a Course"
-    - add the course code: F76BE6
+    - provide the course code: F76BE6
 
 You should see an event titled "Office Hours" with a Zoom url. Click on that and create a ticket! I'll be with you ASAP! :)
