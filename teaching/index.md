@@ -3,9 +3,16 @@ layout: page
 title: Teaching Materials
 ---
 
+# Current Courses
 
+- [Comp 110: Intro to Programming](https://comp110-24s.github.io/)
+
+# Teaching Materials
 
 Here are some teaching materials I've made to help students. I consider them to be works-in-progress, so any corrections or feedback is appreciated! (Please email feedback to abyrnes1@cs.unc.edu)
+
+## Basics
+* [LaTeX Cheat Sheet](/comp283/lessons/latex-guide.html)
 
 ## Discrete Structures
 
@@ -25,3 +32,4 @@ Here are some teaching materials I've made to help students. I consider them to 
 * Induction: [Video](https://youtu.be/IFNhAR9LVUw), [Slides](/comp283/lessons/Induction.html), [Induction Template](/comp283/static/resources/IndTemplate.pdf), [Induction Template (Printable)](/comp283/static/resources/IndTemplateWritable.pdf)
 * Analyzing Algorithms and Invariants: [Video](https://youtu.be/EG_7lK18XDk), [Slides](/comp283/static/slides/Invariants.pdf)
 * Proving Invariants: [Video](https://youtu.be/bO95yORC1Ss), [Slides](/comp283/lessons/AnalyzingAlgs.html)
+
