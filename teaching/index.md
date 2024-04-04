@@ -12,7 +12,7 @@ title: Teaching Materials
 Here are some teaching materials I've made to help students. I consider them to be works-in-progress, so any corrections or feedback is appreciated! (Please email feedback to abyrnes1@cs.unc.edu)
 
 ## Basics
-* [LaTeX Cheat Sheet](/comp283/lessons/latex-guide.html)
+* [LaTeX Cheat Sheet](/comp283/calendar/latex-guide.html)
 
 ## Discrete Structures
 
